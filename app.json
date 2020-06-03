@@ -1,0 +1,13 @@
+{
+    "expo": {
+      "sdkVersion": "31.0.0",
+      "name": "lotsofdots",
+      "slug": "lotsofdots",
+      "version": "0.1.0",
+      "description": "An application for dot voting",
+      "primaryColor": "#ff8179",
+      "android": {
+        "package": "com.random.people"
+      }
+    }
+  }
