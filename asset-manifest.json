@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lotsofdots_frontend/static/css/main.5f361e03.chunk.css",
+    "main.js": "/lotsofdots_frontend/static/js/main.691bab4c.chunk.js",
+    "main.js.map": "/lotsofdots_frontend/static/js/main.691bab4c.chunk.js.map",
+    "runtime-main.js": "/lotsofdots_frontend/static/js/runtime-main.b306434a.js",
+    "runtime-main.js.map": "/lotsofdots_frontend/static/js/runtime-main.b306434a.js.map",
+    "static/js/2.f86f8163.chunk.js": "/lotsofdots_frontend/static/js/2.f86f8163.chunk.js",
+    "static/js/2.f86f8163.chunk.js.map": "/lotsofdots_frontend/static/js/2.f86f8163.chunk.js.map",
+    "index.html": "/lotsofdots_frontend/index.html",
+    "precache-manifest.5ebbeec7322f7e6efdda90083da831ae.js": "/lotsofdots_frontend/precache-manifest.5ebbeec7322f7e6efdda90083da831ae.js",
+    "service-worker.js": "/lotsofdots_frontend/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/lotsofdots_frontend/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f86f8163.chunk.js.LICENSE.txt": "/lotsofdots_frontend/static/js/2.f86f8163.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lotsofdots_frontend/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b306434a.js",
+    "static/js/2.f86f8163.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.691bab4c.chunk.js"
+  ]
+}
