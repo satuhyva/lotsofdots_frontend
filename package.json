@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.2",
     "expo": "^37.0.12",
     "expo-cli": "^3.21.3",
     "g": "^2.0.1",
@@ -15,6 +16,7 @@
     "react-art": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-native": "^0.62.2",
+    "react-native-simple-radio-button": "^2.7.4",
     "react-native-web": "^0.12.3",
     "react-scripts": "3.4.1"
   },
@@ -28,7 +30,7 @@
     "test-web": "react-scripts test",
     "eject-web": "react-scripts eject",
     "predeploy": "npm run build",
-		"deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start-native": "expo start",
     "android": "expo android",
     "ios": "expo ios",
@@ -36,7 +38,39 @@
     "build:android": "expo build:android"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "react-app",
+    "rules": {
+      "prettier": 0,
+      "indent": [
+        "error",
+        4
+      ],
+      "semi": [
+        "error",
+        "never"
+      ],
+      "eqeqeq": "error",
+      "no-trailing-spaces": "error",
+      "object-curly-spacing": [
+        "error",
+        "always"
+      ],
+      "arrow-spacing": [
+        "error",
+        {
+          "before": true,
+          "after": true
+        }
+      ],
+      "quotes": [
+        "error",
+        "single"
+      ],
+      "comma-dangle": [
+        "error",
+        "always-multiline"
+      ]
+    }
   },
   "browserslist": {
     "production": [
