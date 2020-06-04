@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lotsofdots_frontend/precache-manifest.5ebbeec7322f7e6efdda90083da831ae.js"
+  "/lotsofdots_frontend/precache-manifest.ffccc4a69774646839eec54db9230a42.js"
 );
 
 self.addEventListener('message', (event) => {
