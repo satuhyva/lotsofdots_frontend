@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.2",
     "expo": "^37.0.12",
-    "expo-cli": "^3.21.3",
+    "expo-cli": "^6.0.8",
     "g": "^2.0.1",
     "gh-pages": "^3.0.0",
     "react": "^16.13.1",
